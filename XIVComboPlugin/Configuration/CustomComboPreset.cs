@@ -283,7 +283,7 @@ namespace XIVComboExpandedestPlugin
         DancerAoeMultibutton = 50,
 
         [CustomComboInfo("Dance Step Feature", "Change actions into dance steps while dancing." +
-            "\nThis helps ensure you can still dance with combos on, without using auto dance." +
+            "\nTest. This helps ensure you can still dance with combos on, without using auto dance." +
             "\nYou can change the respective actions by inputting action IDs below for each dance step." +
             "\nThe defaults are Cascade, Flourish, Fan Dance and Fan Dance II. If set to 0, they will reset to these actions." +
             "\nYou can get Action IDs with Garland Tools by searching for the action and clicking the cog.", DNC.JobID, DNC.Cascade, DNC.Flourish, DNC.FanDance1, DNC.FanDance2)]
